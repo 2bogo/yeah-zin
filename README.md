@@ -1,4 +1,5 @@
 ### Hi there 👋
+![blob-dance](https://user-images.githubusercontent.com/84134902/167641885-47f43fba-ef23-486c-8b6f-c3c4a32ed261.gif)
 
 <!--
 **yeah-zin/yeah-zin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
