@@ -1,5 +1,7 @@
-### Hi there 👋
-![blob-dance](https://user-images.githubusercontent.com/84134902/167641885-47f43fba-ef23-486c-8b6f-c3c4a32ed261.gif)
+### 😁 Hello! This is me!
+
+<p>Graduate student in bioinformatics at <a href="https://www.gnu.ac.kr/eng/main.do">Gyeongsang National University</a></p>
+
 
 <!--
 **yeah-zin/yeah-zin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
