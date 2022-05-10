@@ -1,6 +1,10 @@
-### 😁 Hello! This is me!
+# 😁 Hello!
 
-<p>Graduate student in bioinformatics at <a href="https://www.gnu.ac.kr/eng/main.do">Gyeongsang National University</a></p>
+#### About me
+<li>Graduate student in bioinformatics at <a href="https://www.gnu.ac.kr/eng/main.do">Gyeongsang National University</a></li>
+<li>Learning bioinformatics tools and web design</li>
+
+#### Languages and Tools
 
 
 <!--
