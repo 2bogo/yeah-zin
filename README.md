@@ -16,8 +16,8 @@
 
 #### STATUS
 <a href="https://github.com/yeah-zin/yeah-zin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeah-zin&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=f0eeed&bg_color=000000&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeah-zin&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=f0eeed&bg_color=20262E&langs_count=3" />
 </a>
 <a href="https://github.com/yeah-zin/yeah-zin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeah-zin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f0eeed&bg_color=000000" alt="yeah-zin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeah-zin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f0eeed&bg_color=20262E" alt="yeah-zin's GitHub Stats" />
 </a>
