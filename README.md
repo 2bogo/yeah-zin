@@ -1,7 +1,8 @@
-# 😁 Hello!
+# Nice to meet you! I'm Yejin
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yeah-zin.yeah-zin)
 
 #### About me
-<li>Graduate student in bioinformatics at <a href="https://www.gnu.ac.kr/eng/main.do">Gyeongsang National University</a></li>
+<li>Student in bioinformatics at <a href="https://www.gnu.ac.kr/eng/main.do">Gyeongsang National University</a></li>
 <li>Learning bioinformatics tools and web development</li>
 
 #### Languages and Tools
