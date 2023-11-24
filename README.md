@@ -11,12 +11,3 @@
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=React&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=sucess)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=sucess)
-
-
-#### STATUS
-<a href="https://github.com/yeah-zin/yeah-zin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeah-zin&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=f0eeed&bg_color=20262E&langs_count=3" />
-</a>
-<a href="https://github.com/yeah-zin/yeah-zin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yeah-zin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f0eeed&bg_color=20262E" alt="yeah-zin's GitHub Stats" />
-</a>
